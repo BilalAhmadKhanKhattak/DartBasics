@@ -22,10 +22,12 @@ The repository is structured sequentially through the bare essentials of Dart's 
 - [x] **(7) Null Safety**
 
 ---
-#Screenshot
+
+# Screenshot
 <img width="427" height="552" alt="image" src="https://github.com/user-attachments/assets/a9a414cf-211f-4caf-9b43-5125eddbdace" />
 
 Furthermore, it's pretty awesome, weird and a little "thought-provoking" too, that the Dart Language folder on my PC says October 2024, and here we are... IN 2026!
+
 <img width="393" height="202" alt="image" src="https://github.com/user-attachments/assets/fceec9c9-8be6-46e5-8f59-9ae944679bdd" />
 
 
