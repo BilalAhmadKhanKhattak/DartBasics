@@ -1,0 +1,6 @@
+Mini Exercise:
+
+Create a program that:
+
+Declares variables for your name, age, height, and favorite color.
+Prints a sentence about you using string interpolation.
